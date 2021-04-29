@@ -1,0 +1,2 @@
+Testing Git
+Creating local repository and then pushing the repository to git hub 
